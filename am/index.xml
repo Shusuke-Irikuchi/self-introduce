@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>I am on what I am today</title>
+    <link>https://floating-crag-93929.herokuapp.com/am/</link>
+    <description>Recent content in I am on what I am today</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://floating-crag-93929.herokuapp.com/am/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>a student</title>
+      <link>https://floating-crag-93929.herokuapp.com/am/student/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://floating-crag-93929.herokuapp.com/am/student/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>from</title>
+      <link>https://floating-crag-93929.herokuapp.com/am/from/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://floating-crag-93929.herokuapp.com/am/from/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>living in</title>
+      <link>https://floating-crag-93929.herokuapp.com/am/living/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://floating-crag-93929.herokuapp.com/am/living/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>look like</title>
+      <link>https://floating-crag-93929.herokuapp.com/am/face/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://floating-crag-93929.herokuapp.com/am/face/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
